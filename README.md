@@ -27,7 +27,7 @@ Performance Summary Table:
 | Phase Margin                  | 58°                       |                            
 | Slew Rate                     | 3.9 V/µs                  |                          
 | Peak-to-Peak Output Swing     | ~999 mV p-p               |                       
-| Power Consumption             |54.9172u                   |           
+| Power Consumption             |54.9172uW                   |           
 | PSRR                          | ~67 dB                    |             
 | Load Capacitance              | 2 pF                      |                     
 | Output Configuration          | Buffer (Voltage Follower) | 
